@@ -9,7 +9,7 @@ The CheatBreakerAPINetHandler is the container for all of CheatBreaker's packet 
 
 ## Reporting an issue
 
-If you suspect an issue you can submit one [here](/issues).
+If you suspect an issue you can submit one [here](https://github.com/KaboomB52/CheatBreakerAPINetHandler/issues).
 
 ## Get the Source
 
